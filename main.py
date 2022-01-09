@@ -4,7 +4,7 @@ import datetime
 import telebot
 from telebot import types
 
-token = "2094208483:AAGpDqi5tOcAp8_l2VVGwO9VIk4qUR4gTzQ"
+
 
 bot = telebot.TeleBot(token)
 
